@@ -95,6 +95,13 @@ export const resources: Resource[] = [
         url: 'https://www.photoroom.com',
     },
     {
+    name: 'Phoenix',
+    categories: ['Productivity', 'Automation'],
+    description:
+        'Phoenix is an AI-powered platform with 200+ specialized assistants to help automate tasks such as content creation, report generation, and project management.',
+    url: 'https://phoenix.lunartech.ai',
+    },
+    {
         name: 'PhpStorm',
         categories: ['Editor', 'Programming'],
         description:
